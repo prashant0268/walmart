@@ -1,2 +1,0 @@
-# walmart
-Created with CodeSandbox
